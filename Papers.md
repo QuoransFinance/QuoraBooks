@@ -14,3 +14,5 @@ estimation methods](https://www.sciencedirect.com/science/article/abs/pii/S01692
 [Extreme Value Theory for Finance: A Survey](https://ideas.repec.org/p/bdi/opques/qef_99_11.html)
 
 [SABR Calibration in Python](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725485)
+
+[The Forecasting Power of Short-term Options](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622433)
