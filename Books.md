@@ -20,7 +20,7 @@ Murty - A First Course in Graph Theory and Combinatorics.
 
 # Stochastic Processes:
 
-# Papoulis - Random Variables and Stochastic Processes.
+Papoulis - Random Variables and Stochastic Processes.
 
 Kijima - Stochastic Processes with Applications to Finance.
 
