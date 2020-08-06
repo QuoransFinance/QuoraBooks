@@ -99,6 +99,12 @@ Casella - Statistical Inference.
 
 Hafner - Stochastic Implied Volatility.
 
+# Bayesian Econometrics:
+
+Bayesian Statistics : An Introduction - Peter Lee
+
+Introduction to Bayesian Econometrics - Edward Greenberg
+
 
 
 # Options (Very Low Maths):
