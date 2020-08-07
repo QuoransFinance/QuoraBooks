@@ -2,5 +2,6 @@
 [JP Morgan Python Training](https://github.com/jpmorganchase/python-training) <br>
 [Stock Market Toolkit](https://github.com/ckz8780/market-toolkit) <br>
 [A Basic Introduction to Git](https://github.com/Maths-Coding-Society/Introduction-to-Git) <br>
-[A comparision of pair trading strategies](https://github.com/wywongbd/pairstrade-fyp-2019)
+[A comparision of pair trading strategies](https://github.com/wywongbd/pairstrade-fyp-2019) <br>
+[Toolkit of trading strategies](https://github.com/systematicinvestor/SIT)
 
