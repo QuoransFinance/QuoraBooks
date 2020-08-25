@@ -131,3 +131,7 @@ Applied Econometrics - Asteriou and Hall
 Stochastic Calculus of Variations in Mathematical Finance - Malliavin and  Thalmaier
 
 Stochastic Calculus for Finance Parts I and II - Shreve
+
+
+C++ for Financial Maths
+https://nms.kcl.ac.uk/john.armstrong/courses/courses.html
