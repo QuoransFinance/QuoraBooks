@@ -126,7 +126,7 @@ Financial Calculus - Baxter
 
 Applied Econometrics - Asteriou and Hall
 
-Risk.com
+https://www.risk.net/
 
 # My recommendations:
 
