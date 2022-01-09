@@ -126,6 +126,8 @@ Financial Calculus - Baxter
 
 Applied Econometrics - Asteriou and Hall
 
+Risk.com
+
 # My recommendations:
 
 Stochastic Calculus of Variations in Mathematical Finance - Malliavin and  Thalmaier
